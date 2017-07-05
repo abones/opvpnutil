@@ -11,6 +11,7 @@ Building
 Use these commands to add submodule to your project:
 ```
 git submodule add https://github.com/abones/opvpnutils/
+git submodule update
 ```
 
 Modify your build.gradle file to include libopvpnutils.so into build:
